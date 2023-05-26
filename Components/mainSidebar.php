@@ -13,7 +13,8 @@
           <img src="<?php echo $f['image'];?>" class="img-circle elevation-3" alt="User Image">
         </div>
         <div class="info">
-          <a href="#" class="d-block"><?php echo $f['name'];?></a>
+          <a href="profile.php" class="d-block"><?php echo $f['name'];?></a>
+  
         </div>
       </div>
 
